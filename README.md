@@ -4,7 +4,8 @@
 ![image](https://user-images.githubusercontent.com/97470160/162144983-743aebe8-fdc8-41dd-8da4-bd9e17fb7472.png)
 
 ____
-# [ссылка на видео]: https://drive.google.com/drive/folders/1xI5ivJQx9dTZzAVin545Zzavk7Nc_z4x
+
+#[ссылка на видео]: https://drive.google.com/drive/folders/1xI5ivJQx9dTZzAVin545Zzavk7Nc_z4x
 
 
 ____
