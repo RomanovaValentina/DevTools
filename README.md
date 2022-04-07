@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/97470160/162144983-743aebe8-fdc8-41dd-8da4-bd9e17fb7472.png)
 
 ____
-#[ссылка на видео]: https://drive.google.com/drive/folders/1xI5ivJQx9dTZzAVin545Zzavk7Nc_z4x
+[ссылка на видео]: https://drive.google.com/drive/folders/1xI5ivJQx9dTZzAVin545Zzavk7Nc_z4x
 
 
 ____
@@ -29,7 +29,7 @@ ____
  19. Открыть вкладку Sources.
  20. Открыть файл Index
  21. Открыть вкладку Network
- 22. В урле отправить отправить [ссылка](http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name)
+ 22. В урле отправить запрос
  23. Найти лог request/responce  
  24. Открыть вкладку Headers
  25. Просмотреть General, Response Headers, Request Headers
@@ -52,7 +52,7 @@ ____
  42. Изменить локацию GPS второй раз. Продемонстрировать на сайте [Гугл карт](https://www.google.com/maps/).
  43. Найти интерфейс для изменения User-Agent.
  44. Подставить другой User-Agent. 
- 45. Отправить запрос на [ссылка](http://162.55.220.72:5005/object_info_3?age=32&salary=1000&name=name)
+ 45. Отправить запрос
  46. Проверить изменился ли ваш нативный User-Agent на новый, подставленный.
  47. Создать свой юзер агент.
  48. Повторить пункты 45, 46.
