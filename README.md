@@ -5,7 +5,7 @@
 
 ____
 
-#[ссылка на видео]: https://drive.google.com/drive/folders/1xI5ivJQx9dTZzAVin545Zzavk7Nc_z4x
+[ссылка на видео](https://drive.google.com/drive/folders/1xI5ivJQx9dTZzAVin545Zzavk7Nc_z4x)
 
 
 ____
