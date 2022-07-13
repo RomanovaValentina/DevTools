@@ -5,7 +5,7 @@
 
 ____
 
-[ссылка на видео](https://drive.google.com/drive/folders/1xI5ivJQx9dTZzAVin545Zzavk7Nc_z4x)
+[ссылка на видео](https://drive.google.com/file/d/19RpuEYxLhEM8ku4rVLFd70hi_3btyeb5/view?usp=sharing)
 
 
 ____
@@ -49,8 +49,8 @@ ____
  38. Зайти на сайт [Ksendzov](https://ksendzov.com)
  39. Сделать и сохранить скриншот видимой части страницы сайта.
  40. Сделать и сохранить скриншот всего сайта.
- 41. Изменить локацию GPS. Продемонстрировать на сайте [Гугл карт](https://www.google.com/maps/).
- 42. Изменить локацию GPS второй раз. Продемонстрировать на сайте [Гугл карт](https://www.google.com/maps/).
+ 41. Изменить локацию GPS. Продемонстрировать на сайте [Гугл карта](https://www.google.com/maps/).
+ 42. Изменить локацию GPS второй раз. Продемонстрировать на сайте [Гугл карта](https://www.google.com/maps/).
  43. Найти интерфейс для изменения User-Agent.
  44. Подставить другой User-Agent. 
  45. Отправить запрос
